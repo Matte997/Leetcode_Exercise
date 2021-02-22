@@ -33,8 +33,6 @@ class Solution {
             }
             if (k == 0) vettore[i] = 0;
         }
-    }
-}
         return vettore;
     }
 }
